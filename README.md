@@ -60,11 +60,11 @@ DAX was used to create dynamic measures, KPI calculations, metric selection, and
 
 ### Overview Analysis
 
-![Overview Analysis](overview analysis.png)
+![Overview Analysis](overviewanalysis.png)
 
 ### Transactions Analysis
 
-![Transactions Analysis](transactions analysis.png)
+![Transactions Analysis](transactionsanalysis.png)
 
 ## 🛠️ Tools & Technologies
 
